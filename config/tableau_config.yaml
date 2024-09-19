@@ -1,0 +1,3 @@
+server_url: "https://your-tableau-server.com"
+username: "your-username"
+site_id: ""  # Leave empty for the default site
